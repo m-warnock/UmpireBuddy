@@ -5,12 +5,6 @@
     <string name="ball_text">Ball: </string>
     <string name="outs_label">Outs:</string>
 
-    <string name="counter_0">0</string>
-    <string name="counter_1">1</string>
-    <string name="counter_2">2</string>
-    <string name="counter_3">3</string>
-    <string name="counter_4">4</string>
-
     <string name="outs_count">0</string>
 
     <string name="strike_button_label">Strike</string>
